@@ -33,7 +33,7 @@ pip install -r requirements.txt
 프로젝트 루트에 `.env` 파일 생성:
 
 ```env
-TELEGRAM_BOT_TOKEN=여기에_봇_토큰
+TELEGRAM_BOT_TOKEN=8569460125:AAECixwY5R7lz0p5DhheT6QAUwdC-IXw3Jw
 ```
 
 ## 실행
